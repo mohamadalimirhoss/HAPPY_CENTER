@@ -1,4 +1,4 @@
-.# HAPPY CENTER — Android starter
+..# HAPPY CENTER — Android starter
 
 A Persian RTL Android storefront prototype built with Kotlin + Jetpack Compose.
 
